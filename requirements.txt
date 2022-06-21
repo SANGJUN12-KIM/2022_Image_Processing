@@ -1,0 +1,14 @@
+torch ==1.9.0
+torchvision ==0.10.0
+opencv-python
+matplotlib
+scipy
+pandas
+numpy
+Pillow
+Pillow >=8.2
+scikit-image
+python-bidi
+PyYAML
+numpyencoder
+

@@ -1,0 +1,8 @@
+network_params:
+  input_channel: 1
+  output_channel: 256
+  hidden_size: 256
+imgH: 64
+lang_list:
+         - 'ko'
+character_list: "0123456789가나다라마거너더러머버서어저고노도로모보소오조구누두루무부수우주바사아자하허호육공해외교영사준외준영국기대표협정"
